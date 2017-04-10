@@ -1,0 +1,6 @@
+
+// De exemplu, daca serverul are DNS (nume) DM.PGLARENA.RO
+// La "Server.Short.Name" vei trece "DM"
+
+"Server.Short.Name"	"GO"
+

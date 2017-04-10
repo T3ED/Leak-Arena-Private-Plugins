@@ -1,0 +1,77 @@
+﻿;
+; FIRST LINE OF FILE MUST START WITH (;)
+; {G} - Green	{P} - Violet	{D} - Default
+;
+
+
+
+
+
+
+★ {G}[ARENA] {D}- IP: {P}89.40.104.131:27015  {G}( ADD TO FAVORITE )
+★ {G}[ARENA] {D}- Oameni pe care ii respectam: !colo !generalu !pulsor !xcretzu
+★ {G}[ARENA] {D}- DNS: {P}ARENA.1TAP.RO {G}( ADD TO FAVORITE )
+★ {G}[ARENA] {D}- Avem: !gloves / !ws / !knife / !challenge / !cumparavip
+★ {G}[ARENA] {D}- Comenzi CHAT : {P}!group {D}| {P}!forum {D}|  {P}!gloves{D}| {P}!freak{D}| {P}!rank {D}| {P}!ws {D}| {P}!knife {D}| {P}!guns
+★ {G}[ARENA] {D}- Limbajul vulgar se va pedepsi cu {G}Gag{D}.
+★ {G}[ARENA] {D}- Doresti sa stai in liniste ? Scrie {P}!voicerooms.
+★ {G}[ARENA] {D}- Pagina Oficiala de Facebook: {P}!facebook
+★ {G}[ARENA] {D}- Vrei sa asculti muzica in timp ce te joci ? Scrie {P}!radio
+★ {G}[ARENA] {D}- Scrie {G}!ws {D}sau {G}!knife {D}pentru a deschide meniul de skinuri !
+★ {G}[ARENA] {D}- Scrie in chat {P}!group {D} ca sa te alaturi grupului nostru de STEAM!
+★ {G}[ARENA] {D}- Vrei {P}$0.50 gratis{D} ? Intra pe {P}GAMDOM.COM{D} si foloseste codul: {P}ARENA1
+★ {G}[ARENA] {D}- Scrie {G}!challenge{D} sa joci contra prietenului tau !
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G}[ARENA] {D}- Te asteptam pe serverul nostru de ts3 : {P}TS.1TAP.RO{D} canalul {P}ARENA.1TAP.RO 
+★ {G}[ARENA] {D}- Scrie {P}guns {D}pentru a deschide meniul de arme!
+★ {G}[ARENA] {D}- Vrei sa asculti muzica in timp ce te joci ? Scrie {P}!radio
+★ {G}[ARENA] {D}- Organizam giveaway-uri pe grupul de steam ! Intra si tu : {P}!group
+★ {G}[ARENA] {D}- **OFERTA** {G}VIP PERMANENT{D} la pretul de 5 euro ! Contact {P}!freak
+★ {G}[ARENA] {D}- Pentru a vedea adminii ţineţi apăsat {G}TAB{D}.
+★ {G}[ARENA] {D}- {G}Cautam Admini{D} ! Avem o campanie de admine {P}deschisa{D} ! Aplica si tu pe forum -> {G}!campanie
+★ {G}[ARENA] {D}- Forumul nostru este: {P}www.1TAP.RO/arena/
+★ {G}[ARENA] {D}- Scrie {G}!ore{D} pentru a-ti vedea numarul de ore jucate ! 
+★ {G}[ARENA] {D}- Oameni pe care ii respectam: !colo !generalu !pulsor !xcretzu
+★ {G}[ARENA] {D}- Pentru {P}ADMIN{D} faceti cerere pe forum : {G}www.1TAP.RO/arena/
+★ {G}[ARENA] {D}- Dragostea se face {G}minim 2 {P}( 1vs1 )
+★ {G}[ARENA] {D}- Doresti sa stai in liniste ? Scrie {P}!voicerooms.
+★ {G}[ARENA] {D}- {G}GOLD MEMBER{D} are acces la comanda {G}!nametag{D} cu care iti poti seta nametag pe arma !
+★ {G}[ARENA] {D}- Doresti sa cumperi VIP ? Scrie {P}!cumparavip
+★ {G}[ARENA] {D}- Scrieţi {P}!RS {D}pentru a vă reseta scorul!
+★ {G}[ARENA] {D}- Grupul oficial de steam: {P}!grup
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G}[ARENA] {D}- Scrie {P}!gloves{D} pentru a-ti schimba manusile !
+★ {G}[ARENA] {D}- Te asteptam pe serverul nostru de ts3 : {P}TS.1TAP.RO{D} canalul {P}ARENA.1TAP.RO 
+★ {G}[ARENA] {D}- Vrei sa asculti muzica in timp ce te joci ? Scrie {G}!radio
+★ {G}[ARENA] {D}- Vrei {P}$0.50 gratis{D} ? Intra pe {P}GAMDOM.COM{D} si foloseste codul: {P}ARENA1
+★ {G}[ARENA] {D}- **OFERTA** {G}VIP PERMANENT{D} la pretul de 5 euro ! Contact {P}!freak
+★ {G}[ARENA] {D}- Vrei sa vezi cat de bine ai jucat pe serverul acesta ? Scrie {P}!rank 
+★ {G}[ARENA] {D}- Pentru{P} MENȚINEREA{D} unui număr constant de jucători,{G} INVITAȚI-VĂ PRIETENII{D} pe server!
+★ {G}[ARENA] {D}- Se cauta admini, intrati pe {P}www.1TAP.RO/arena/{D} !
+★ {G}[ARENA] {D}- Oameni pe care ii respectam: !colo !generalu !pulsor !xcretzu
+★ {G}[ARENA] {D}- Vrei sa asculti muzica in timp ce te joci ? Scrie {P}!radio
+★ {G}[ARENA] {D}- Adauga {G}ARENA.1TAP.RO{D} la numele tau si primesti {G}GOLD MEMBER.{D}(retry necesar)
+★ {G}[ARENA] {D}- Pune in consola {G}cl_join_advertise 2 sa poata da join si prietenii tai!
+★ {G}[ARENA] {D}- Nu ai voie {P}sa inviti playeri {D}la competitive. ( gag/mute )
+★ {G}[ARENA] {D}- Doresti sa stai in liniste ? Scrie {P}!voicerooms.
+★ {G}[ARENA] {D}- Pentru a vedea beneficiile {G}VIP{D} scrie {P}!info{D} sau pentru a cumpara scrie {P}!freak.
+★ {G}[ARENA] {D}- {G}GOLD MEMBER{D} are acces la comanda {G}!nametag{D} cu care iti poti seta nametag pe arma !
+★ {G}[ARENA] {D}- IP la favorit! {P}ARENA.1TAP.RO {P}:27015
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G}[ARENA] {D}- {G}Cautam Admini{D} ! Avem o campanie de admine {P}deschisa{D} ! Aplica si tu pe forum -> {G}!campanie
+★ {G}[ARENA] {D}- Te asteptam pe serverul nostru de ts3 : {P}TS.1TAP.RO{D} canalul {P}ARENA.1TAP.RO 
+★ {G}[ARENA] {D}- Vrei {P}$0.50 gratis{D} ? Intra pe {P}GAMDOM.COM{D} si foloseste codul: {P}ARENA1
+★ {G}[ARENA] {D}- **OFERTA** {G}VIP PERMANENT{D} la pretul de 5 euro ! Contact {P}!freak
+★ {G}[ARENA] {D}- Prietenii vor să vi se alăture în joc? Scrieţi {P}cl_join_Advertise 2 {D}în consolă.
+★ {G}[ARENA] {D}- Adresa IP {P}89.44.246.13 {D}:{P}27015{D}.
+★ {G}[ARENA] {D}- Doresti sa stai in liniste ? Scrie {P}!voicerooms.
+★ {G}[ARENA] {D}- Vrei sa asculti muzica in timp ce te joci ? Scrie {P}!radio
+★ {G}[ARENA] {D}- Scrie {G}!challenge{D} sa joci contra prietenului tau !
+★ {G}[ARENA] {D}- Oameni pe care ii respectam: !colo !generalu !pulsor !xcretzu
+★ {G}[ARENA] {D}- Scrie in chat {P}!group {D} ca sa te alaturi grupului nostru de STEAM!
+★ {G}[ARENA] {D}- Scrie {P}!guns {D}in chat ca sa schimbi armele!
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G}[ARENA] {D}- Vrei {P}$0.50 gratis{D} ? Intra pe {P}GAMDOM.COM{D} si foloseste codul: {P}ARENA1
+★ {G}[ARENA] {D}- Daca suspectezi pe cineva de cod anunta pe {P}u@ {D}daca nu risti mute/gag.
+
+

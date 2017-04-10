@@ -1,0 +1,61 @@
+﻿;
+; FIRST LINE OF FILE MUST START WITH (;)
+; {G} - Green	{P} - Violet	{D} - Default
+;
+
+
+
+
+★ {G} [ARENA] {D} - IP: {P}89.40.104.131:27015 (ADD TO FAVORITE)
+★ {G} [ARENA] {D} - DNS: {P} ARENA.1TAP.RO (ADD TO FAVORITE)
+★ {G} [ARENA] {D} - We have:!gloves / !ws /!knife / !challenge /!buyvip
+★ {G} [ARENA] {D} - CHAT COMMANDS: {P}!group {D} | {P}!forum{D} | {P}!gloves {D} | {P}!freak {D} | {P}!rank {D} | {P}!ws {D} | {P}!knife {D} | {P}!guns
+★ {G} [ARENA] {D} - Vulgar language will punish {G} {D} Gag.
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G} [ARENA] {D} - Official Facebook page: {P}!facebook
+★ {G} [ARENA] {D} - Type {P}!radio{D} to listen some music !
+★ {G} [ARENA] {D} - Use {P}!voicerooms{D} to speak just with your friends !
+★ {G} [ARENA] {D} - Write {G}!ws {D} or {G}! {D} knife to open the menu skins!
+★ {G} [ARENA] {D} - Write in chat  {P}!group {D} to join our steam group!
+★ {G} [ARENA] {D} - Do you want {P}$0.50 FREE{D} ? Go to {P}GAMDOM.COM{D} and use code: {P}ARENA1
+★ {G} [ARENA] {D} - Write {G}!challenge{D} to play against your friend!
+★ {G} [ARENA] {D} - Write {P}guns{D} to open the weapons menu!
+★ {G} [ARENA] {D} - ** OFFER ** {G}VIP PERMANENT {D} priced at 5 euros! Type {G}!buyvip
+★ {G} [ARENA] {D} - To see {G} admins{D} hold TAB.
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G} [ARENA] {D} - Our forum is: {P} www.1TAP.RO/arena/
+★ {G} [ARENA] {D} - Use {P}!voicerooms{D} to speak just with your friends !
+★ {G} [ARENA] {D} - {G} Write {P}!hours{D} to see your number of hours played!
+★ {G} [ARENA] {D} - Looking for helper? : {G} www.1TAP.RO/arena/
+★ {G} [ARENA] {D} - {G} GOLD MEMBER {D} has access to the command {G}!nametag {D} that you set your nametag on the gun!
+★ {G} [ARENA] {D} - Want to buy VIP? Write {P}!buyvip
+★ {G} [ARENA] {D} - Write {P}!RS{D} to reset your score!
+★ {G} [ARENA] {D} - Type {P}!radio{D} to listen some music !
+★ {G} [ARENA] {D} - Official Steam Group: {P}!group
+★ {G} [ARENA] {D} - Write {P}!gloves{D} to change your gloves!
+★ {G} [ARENA] {D} - Join our teamspeak3 server: {P}TS.1TAP.RO 
+★ {G} [ARENA] {D} - Do you want {P}$0.50 FREE{D} ? Go to {P}GAMDOM.COM{D} and use code: {P}ARENA1
+★ {G} [ARENA] {D} - ** OFFER ** {G}VIP {D} priced at 5 euros! Type {G}!buyvip
+★ {G} [ARENA] {D} - Want to see how well you played on this server? Write {P}!rank
+★ {G} [ARENA] {D} - To maintain a constant number of players, {G} invite your friends {D} on the server!
+★ {G} [ARENA] {D} - We are looking for admins ! Forum:  {P}www.1TAP.RO/arena/ {D}!
+★ {G} [ARENA] {D} - Join our teamspeak3 server: {P}TS.1TAP.RO 
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G} [ARENA] {D} - Add {G}ARENA.1TAP.RO {D} to your name and get{G} GOLD MEMBER. {D} (retry required)
+★ {G} [ARENA] {D} - Put in the console {G}cl_join_advertise{D} to be able your friends to join you!
+★ {G} [ARENA] {D} - You're not allowed {P}to invite players {D} at competitive. (Gag / mute)
+★ {G} [ARENA] {D} - Type {P}!radio{D} to listen some music !
+★ {G} [ARENA] {D} - To see the benefits of {P}VIP{D} ! Write {P}!info {D} or write {G}!buyvip.
+★ {G} [ARENA] {D} - {G} GOLD MEMBER {D} has access to the command {G}!nametag {D} that you set your nametag on the gun!
+★ {G} [ARENA] {D} - IP favorite! {P} ARENA.1TAP.RO: 27015
+★ {G} [ARENA] {D} - Join our teamspeak3 server: {P}TS.1TAP.RO 
+★ {G} [ARENA] {D} - Do you want {P}$0.50 FREE{D} ? Go to {P}GAMDOM.COM{D} and use code: {P}ARENA1
+★ {G} [ARENA] {D} - ** OFFER ** {G}VIP PERMANENT {D} priced at 5 euros! Type {G}!buyvip
+★ {G} [ARENA] {D} - Put in the console {G}cl_join_advertise{D} to be able your friends to join you!
+★ {G} [ARENA] {D} - IP address 89.44.246.13 {P} {D}: {P} 27015 {D}.
+★ {G}[ARENA] {D}- {P}WWW.CHEFCASES.COM{D} - USE CODE : {G}ARENA{P} for $1 FREE
+★ {G} [ARENA] {D} - Write {G}!challenge{D} to play against your friend!
+★ {G} [ARENA] {D} - Write in chat {P}!group{D} to join our steam group!
+★ {G} [ARENA] {D} - Write in chat {P}guns{D} to change weapons!
+★ {G} [ARENA] {D} - Do you want {P}$0.50 FREE{D} ? Go to {P}GAMDOM.COM{D} and use code: {P}ARENA1
+★ {G} [ARENA] {D} - If you suspect someone of cheat announces with {P}u@{D} ! If no risk {G}mute / gag.

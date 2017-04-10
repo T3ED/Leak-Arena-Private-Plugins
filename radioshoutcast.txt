@@ -1,0 +1,2009 @@
+"Radio Stations"
+{
+	"Off Page"		"about:blank"
+	"Volume Wrapper"	"https://radio.dubbeh.net/rvw.html"
+	"Shoutcast Player"	"https://radio.dubbeh.net/index.php"
+	"ShoutCast Version"	"1482633669"
+	"Use Genres"		"0"
+
+	"(*) Merry Christmas (128K)"
+	{
+		"Station ID" "5757"
+	}
+	"Hubu.FM (128K)"
+	{
+		"Station ID" "13954"
+	}
+	"COOLfahrenheit 93 (1) (64K)"
+	{
+		"Station ID" "14684"
+	}
+	"Alex Jones - Infowars.com Alternate/Relay (32K)"
+	{
+		"Station ID" "4759"
+	}
+	"Happy Christmas 2016 (128K)"
+	{
+		"Station ID" "14913"
+	}
+	"Dance Wave! (128K)"
+	{
+		"Station ID" "1576"
+	}
+	"ChristmasHits.FM | Your Christmas Radio Station | http://www.ChristmasHits.FM (128K)"
+	{
+		"Station ID" "5657"
+	}
+	"RADIOSCOOP HUNGARY | www.radioscoop.hu (128K)"
+	{
+		"Station ID" "4658"
+	}
+	"All 60s All The Time: All60s, All 60s (128K)"
+	{
+		"Station ID" "1155"
+	}
+	"80s Planet, 80splanet : The 80s Experts! (128K)"
+	{
+		"Station ID" "1250"
+	}
+	"RadioMv.com | Russian Christian Radio (128K)"
+	{
+		"Station ID" "2213"
+	}
+	"(*) BestClubDance (128K)"
+	{
+		"Station ID" "1582"
+	}
+	"Peace 104.3FM (40K)"
+	{
+		"Station ID" "13483"
+	}
+	"(*) Quisqueya (128K)"
+	{
+		"Station ID" "3920"
+	}
+	"RadioAntennaJovenCR.com (128K)"
+	{
+		"Station ID" "4659"
+	}
+	"plathong.net (96K)"
+	{
+		"Station ID" "13955"
+	}
+	"Radio Lumiere Inter live from Cap-Haitien Haiti (64K)"
+	{
+		"Station ID" "13038"
+	}
+	"Radio Zuper FM - Zuper Muzica pe tot Internetul (128K)"
+	{
+		"Station ID" "4464"
+	}
+	"Das Weihnachtsradio - RMNchristmas (128K)"
+	{
+		"Station ID" "4300"
+	}
+	"Christmas Oldies 2016 (128K)"
+	{
+		"Station ID" "7566"
+	}
+	"(*) Happy Christmas radio (128K)"
+	{
+		"Station ID" "5652"
+	}
+	"1.FM - Chillout Lounge Radio (127K)"
+	{
+		"Station ID" "1393"
+	}
+	"Enjoy Hits! (160K)"
+	{
+		"Station ID" "1577"
+	}
+	"MUKIL FM (64K)"
+	{
+		"Station ID" "14705"
+	}
+	"(*) ABC Lounge (128K)"
+	{
+		"Station ID" "12892"
+	}
+	"1.FM - Always-Christmas Radio (256K)"
+	{
+		"Station ID" "5664"
+	}
+	"Classic Holiday Radio (Classic Christmas Carols and Holiday Music with the Orginal Golden Artists) (128K)"
+	{
+		"Station ID" "5654"
+	}
+	"(*) Christmas Carols Radio (128K)"
+	{
+		"Station ID" "767"
+	}
+	"AllHeart at Christmas (128K)"
+	{
+		"Station ID" "13671"
+	}
+	"Christmas Melody - Best Beautiful Christmas Songs (128K)"
+	{
+		"Station ID" "5658"
+	}
+	"Ballermann Radio (128K)"
+	{
+		"Station ID" "2816"
+	}
+	"Forever Christmas Radio (128K)"
+	{
+		"Station ID" "5667"
+	}
+	"COOLfahrenheit 93 (5) (64K)"
+	{
+		"Station ID" "14306"
+	}
+	"181.FM Christmas Mix (128K)"
+	{
+		"Station ID" "5653"
+	}
+	"181.FM Awesome 80s (128K)"
+	{
+		"Station ID" "1251"
+	}
+	"181.FM Christmas Classics (128K)"
+	{
+		"Station ID" "5661"
+	}
+	"Dance Wave Retro! (128K)"
+	{
+		"Station ID" "1578"
+	}
+	"La Bakana FM - El Poder Tropical de Santiago! (96K)"
+	{
+		"Station ID" "4129"
+	}
+	"(*) Christmas Wonderland Radio (128K)"
+	{
+		"Station ID" "5659"
+	}
+	"LA RADIO DE MODA (80K)"
+	{
+		"Station ID" "14463"
+	}
+	"christmas (64K)"
+	{
+		"Station ID" "12525"
+	}
+	"Lankasri FM (128K)"
+	{
+		"Station ID" "3312"
+	}
+	"(*) Hits 24 (128K)"
+	{
+		"Station ID" "4663"
+	}
+	"SmoothJazz.com Global Radio - The Worlds First 24/7 Since 2000 - KJAZ.DB (128K)"
+	{
+		"Station ID" "3605"
+	}
+	"Radio U1 Tirol (128K)"
+	{
+		"Station ID" "12902"
+	}
+	"(*) 1000 Christmas (128K)"
+	{
+		"Station ID" "5678"
+	}
+	"www.radiomergimi.com (48K)"
+	{
+		"Station ID" "13114"
+	}
+	"HOT 108 JAMZ - #1 FOR HIP HOP - www.hot108.com (a Powerhitz.com station) (128K)"
+	{
+		"Station ID" "13571"
+	}
+	"SinterklaasRadio (128K)"
+	{
+		"Station ID" "5754"
+	}
+	"Pink Radio  Najbolji hitovi svih vremena (128K)"
+	{
+		"Station ID" "2818"
+	}
+	"ledjam (128K)"
+	{
+		"Station ID" "5025"
+	}
+	"PONdENDS.COM | RADIO | REAL YAAD VYBEZ (128K)"
+	{
+		"Station ID" "10865"
+	}
+	"RadioMv.com | Russian Christian Radio (24K)"
+	{
+		"Station ID" "2214"
+	}
+	"Tambourine Radio Live (128K)"
+	{
+		"Station ID" "5354"
+	}
+	"Christmas 365 - Santas Radio (128K)"
+	{
+		"Station ID" "13672"
+	}
+	"Countdown2.Christmas Radio (128K)"
+	{
+		"Station ID" "5673"
+	}
+	"181.FM Christmas Classics (128K)"
+	{
+		"Station ID" "5675"
+	}
+	"181.FM Christmas Classics (128K)"
+	{
+		"Station ID" "5655"
+	}
+	"181.FM Christmas Classics (128K)"
+	{
+		"Station ID" "5665"
+	}
+	"Tis The Season Holiday Network (128K)"
+	{
+		"Station ID" "5672"
+	}
+	"AnimeNfo Radio | Serving you the best Anime and Doujin music! (192K)"
+	{
+		"Station ID" "4515"
+	}
+	"181.FM Christmas Mix (128K)"
+	{
+		"Station ID" "5668"
+	}
+	"HawaiianRainbow.com - Hawaiian music - Streaming da kine in stereo since 1999!! (128K)"
+	{
+		"Station ID" "3411"
+	}
+	"181.FM Christmas Classics (128K)"
+	{
+		"Station ID" "5662"
+	}
+	"Sleep Radio Stream (128K)"
+	{
+		"Station ID" "1487"
+	}
+	"MUKIL FM (64K)"
+	{
+		"Station ID" "14724"
+	}
+	"Radio Banovina Croatia (96K)"
+	{
+		"Station ID" "2819"
+	}
+	"Radio-Heimatmelodie.de - Volksmusik, volkstuemlich, Schlager (128K)"
+	{
+		"Station ID" "2883"
+	}
+	"Radio Rodja (Server Singapura - primer) (128K)"
+	{
+		"Station ID" "3197"
+	}
+	"Hindi Desi Bollywood Evergreen Hits (32K)"
+	{
+		"Station ID" "3006"
+	}
+	"(*) Radiomyme-TV (128K)"
+	{
+		"Station ID" "4667"
+	}
+	"Radio Beats FM (128K)"
+	{
+		"Station ID" "1845"
+	}
+	"AllWebRadio.com - Traditional Christmas (128K)"
+	{
+		"Station ID" "10182"
+	}
+	"Holly FM Christmas Holiday Season (128K)"
+	{
+		"Station ID" "5656"
+	}
+	"181.FM Christmas Classics (128K)"
+	{
+		"Station ID" "5676"
+	}
+	"RADIONL (120K)"
+	{
+		"Station ID" "2817"
+	}
+	"JewishMusic Stream (128K)"
+	{
+		"Station ID" "2980"
+	}
+	"70s-90s J-pop Stream (64K)"
+	{
+		"Station ID" "11107"
+	}
+	"Quran Coran - www.coran.tk (64K)"
+	{
+		"Station ID" "2560"
+	}
+	"(*) Elium-ClubDance (128K)"
+	{
+		"Station ID" "1585"
+	}
+	"1.FM - Classic Rock Replay Radio (128K)"
+	{
+		"Station ID" "11317"
+	}
+	"Radio Taraf Romania (128K)"
+	{
+		"Station ID" "13956"
+	}
+	"British Comedy Channel - ROK Classic Radio (32K)"
+	{
+		"Station ID" "4864"
+	}
+	"1.FM - Amsterdam Trance Radio (128K)"
+	{
+		"Station ID" "2039"
+	}
+	"SHEMROON 24/7 COMEDY RADIO | PERSIAN EDUCATIONAL MARDOM IRN HAMRAH FARSI IRAN (64K)"
+	{
+		"Station ID" "5874"
+	}
+	"(*) TOP 20 Radio (128K)"
+	{
+		"Station ID" "1584"
+	}
+	"(*) 100 HIT radio (128K)"
+	{
+		"Station ID" "1579"
+	}
+	"Radio IKIMfm Malaysia (64K)"
+	{
+		"Station ID" "3104"
+	}
+	"Sukson Radio | Thailand Easy Listening Online Station | RADIO.SUKSON.COM (128K)"
+	{
+		"Station ID" "4679"
+	}
+	"Radio U1 Tirol (128K)"
+	{
+		"Station ID" "14088"
+	}
+	"181.FM Christmas Mix (128K)"
+	{
+		"Station ID" "5669"
+	}
+	"Radioseven - www.radioseven.se (128K)"
+	{
+		"Station ID" "1580"
+	}
+	"HPR1: Traditional Classic Country from Heartland Public Radio (128K)"
+	{
+		"Station ID" "996"
+	}
+	"1.FM - Adore Jazz Radio (128K)"
+	{
+		"Station ID" "3659"
+	}
+	"Otvoreni radio (128K)"
+	{
+		"Station ID" "1342"
+	}
+	"Ok Radio 64 Kbit Mono server EU (64K)"
+	{
+		"Station ID" "14061"
+	}
+	"!RadioParty.pl - Hit, Pop, Dance, Top, Hits, Radio (128K)"
+	{
+		"Station ID" "1581"
+	}
+	"Chilltrax - The Worlds Chillout Channel (128K)"
+	{
+		"Station ID" "6303"
+	}
+	"181.FM Christmas Mix (128K)"
+	{
+		"Station ID" "5677"
+	}
+	"(*) #1 Jazz Radio (128K)"
+	{
+		"Station ID" "3543"
+	}
+	"Radio Manele Romania (128K)"
+	{
+		"Station ID" "13943"
+	}
+	"Shakthi FM Online Radio (84K)"
+	{
+		"Station ID" "4306"
+	}
+	"Bassdrive - Worldwide Drum and Bass Radio (128K)"
+	{
+		"Station ID" "1753"
+	}
+	"The Christmas Radio (96K)"
+	{
+		"Station ID" "5670"
+	}
+	"Radio Beograd 202 (128K)"
+	{
+		"Station ID" "4309"
+	}
+	"BEST SMOOTH JAZZ - UK (LONDON) HOST ROD LUCAS (128K)"
+	{
+		"Station ID" "3608"
+	}
+	"Radio X-MAS (128K)"
+	{
+		"Station ID" "5680"
+	}
+	"SmoothJazz.com Global Radio - The Worlds First 24/7 Since 2000 - KJAZ.DB (256K)"
+	{
+		"Station ID" "3610"
+	}
+	"(*) radiopoitou (128K)"
+	{
+		"Station ID" "1593"
+	}
+	"(*) 1000 Classical Hits (128K)"
+	{
+		"Station ID" "764"
+	}
+	"Xmas music express (128K)"
+	{
+		"Station ID" "12529"
+	}
+	"WPRB 103.3 FM (Princeton, NJ) (75K)"
+	{
+		"Station ID" "116"
+	}
+	"baroque (64K)"
+	{
+		"Station ID" "11656"
+	}
+	"(*) #Pophits (128K)"
+	{
+		"Station ID" "4617"
+	}
+	"The Very Best Of Art Bell. (24K)"
+	{
+		"Station ID" "10018"
+	}
+	"Radio Maanaim (64K)"
+	{
+		"Station ID" "2346"
+	}
+	"Saboramerengue (128K)"
+	{
+		"Station ID" "3921"
+	}
+	"ShamFM (64K)"
+	{
+		"Station ID" "2557"
+	}
+	"Radio Star Hot AC (128K)"
+	{
+		"Station ID" "1294"
+	}
+	"The Mix Radio Christmas (128K)"
+	{
+		"Station ID" "10183"
+	}
+	"Antenna1 Roma (128K)"
+	{
+		"Station ID" "4412"
+	}
+	"*CRIMETIME Old Time Radio* (32K)"
+	{
+		"Station ID" "6010"
+	}
+	"LOUNGE-RADIO.COM - swiss made (128K)"
+	{
+		"Station ID" "1395"
+	}
+	"Anima Amoris [Dub Techno] 320 MP3 anima.sknt.ru (320K)"
+	{
+		"Station ID" "2006"
+	}
+	"Radio MTAFM Surakarta (64K)"
+	{
+		"Station ID" "7494"
+	}
+	"Little Samaritean Radio (128K)"
+	{
+		"Station ID" "2217"
+	}
+	"(*) 100 CHILL (128K)"
+	{
+		"Station ID" "1397"
+	}
+	"[font color =#D41A01)    (+_+)b kpop,korea,korean,club (128K)"
+	{
+		"Station ID" "4548"
+	}
+	"(*) The Christmas Station from AllHeart (128K)"
+	{
+		"Station ID" "14914"
+	}
+	"* RADIO NOEL * FRANCE/METZ (160K)"
+	{
+		"Station ID" "5674"
+	}
+	"Radio Guyana International Broadcasting (HD) Live 24/7 Across Guyana, The Caribbean, UK, USA Canada. (128K)"
+	{
+		"Station ID" "9719"
+	}
+	"Audio Noir (48K)"
+	{
+		"Station ID" "6011"
+	}
+	"(*) Quemando_Antena (128K)"
+	{
+		"Station ID" "389"
+	}
+	"181.FM The Eagle (Classic) (128K)"
+	{
+		"Station ID" "6204"
+	}
+	"RAC1. Des de Catalunya per tot el mon (48K)"
+	{
+		"Station ID" "12316"
+	}
+	"Beatles Radio (128K)"
+	{
+		"Station ID" "1157"
+	}
+	"Radio Ipuc (128K)"
+	{
+		"Station ID" "2344"
+	}
+	"RADIO TURN (128K)"
+	{
+		"Station ID" "12291"
+	}
+	"(*) Elium-Rock (128K)"
+	{
+		"Station ID" "12277"
+	}
+	"Radio Chann Pardesi 32 Kbps (64K)"
+	{
+		"Station ID" "14369"
+	}
+	"SIMI SALSA - RADIO AAC (32K)"
+	{
+		"Station ID" "7387"
+	}
+	"(*) Top Tonic Hits (128K)"
+	{
+		"Station ID" "12293"
+	}
+	"Chroma Christmas (128K)"
+	{
+		"Station ID" "5666"
+	}
+	"Audiophile Baroque, (320K)"
+	{
+		"Station ID" "12801"
+	}
+	"POWERHITZ.COM - 1POWER - #1 For Hitz  Hip Hop (128K)"
+	{
+		"Station ID" "13572"
+	}
+	"Colombia Crossover (128K)"
+	{
+		"Station ID" "4028"
+	}
+	"Radio Petrecaretzu wWw.RadioPetrecaretzu.Ro Petrecere Populara Etno Manele Top 40 (128K)"
+	{
+		"Station ID" "2828"
+	}
+	"181.FM Christmas Mix (128K)"
+	{
+		"Station ID" "5690"
+	}
+	"Blues Radio (128K)"
+	{
+		"Station ID" "685"
+	}
+	"Ilayaraja fans radio - Southradios.com (128K)"
+	{
+		"Station ID" "3314"
+	}
+	"J-Jams | Modern J-POP and R&B (128K)"
+	{
+		"Station ID" "12262"
+	}
+	"Radio 257 - Christmas Music Station (192K)"
+	{
+		"Station ID" "60"
+	}
+	"bossanova (64K)"
+	{
+		"Station ID" "12098"
+	}
+	"Sirasa FM Online Radio - Srilanka (84K)"
+	{
+		"Station ID" "7493"
+	}
+	"LOLLIRADIO ITALIA - Best Italian Songs - Italy Italia (128K)"
+	{
+		"Station ID" "13408"
+	}
+	"Chromanova.fm Chillout & Lounge DJ Set Radio (160K)"
+	{
+		"Station ID" "1488"
+	}
+	"RAC1. Des de Catalunya per tot el mon (48K)"
+	{
+		"Station ID" "4763"
+	}
+	"Curtin FM 100.1 (64K)"
+	{
+		"Station ID" "7619"
+	}
+	"Radio Hunter - The Hitz Channel (128K)"
+	{
+		"Station ID" "4664"
+	}
+	"Irish Pub Radio (128K)"
+	{
+		"Station ID" "4313"
+	}
+	"Antenne Niedersachsen (64K)"
+	{
+		"Station ID" "6206"
+	}
+	"radio24 (100K)"
+	{
+		"Station ID" "4851"
+	}
+	"CALM RADIO - MOZART - Sampler (128K)"
+	{
+		"Station ID" "803"
+	}
+	"NEW COVENANT GOSPEL (128K)"
+	{
+		"Station ID" "10733"
+	}
+	"54house.fm - The Heartbeat Of House Music (192K)"
+	{
+		"Station ID" "1924"
+	}
+	"Radio Marimanga (64K)"
+	{
+		"Station ID" "4327"
+	}
+	"(*) EFR12 Eurovision Radio (128K)"
+	{
+		"Station ID" "9974"
+	}
+	"(*) New York Classic Rock (128K)"
+	{
+		"Station ID" "5574"
+	}
+	"Radio Quraan - Quran, Koran & Islam (64K)"
+	{
+		"Station ID" "9710"
+	}
+	"(*) Radio Mozart (128K)"
+	{
+		"Station ID" "763"
+	}
+	"=Dark Asylum Radio= For The Digitally Insane (128K)"
+	{
+		"Station ID" "12744"
+	}
+	"Radio Traditional Colinde (128K)"
+	{
+		"Station ID" "2164"
+	}
+	"Soft Classic Rock (128K)"
+	{
+		"Station ID" "5468"
+	}
+	"British Comedy Radio (48K)"
+	{
+		"Station ID" "4874"
+	}
+	"NETH FM (96K)"
+	{
+		"Station ID" "2604"
+	}
+	"ANTENNE BAYERN Oldies but Goldies (128K)"
+	{
+		"Station ID" "4575"
+	}
+	"(*) ABSOLUTE CHILLOUT (128K)"
+	{
+		"Station ID" "1394"
+	}
+	"(*) 1 classic (128K)"
+	{
+		"Station ID" "720"
+	}
+	"Classic Rock 109 (128K)"
+	{
+		"Station ID" "14875"
+	}
+	"Gurbani Kirtan FM 24/7 (128K)"
+	{
+		"Station ID" "4382"
+	}
+	"KCSN (128K)"
+	{
+		"Station ID" "12292"
+	}
+	"Radio Morava :: Jagodina :: www.radiomorava.rs :: MP3 128k stereo (128K)"
+	{
+		"Station ID" "2839"
+	}
+	"PulsRadio DANCE (192K)"
+	{
+		"Station ID" "1396"
+	}
+	"Radio Pingvin - Najbolja domaca zabavna muzika (64K)"
+	{
+		"Station ID" "11971"
+	}
+	"A_A Christmas (128K)"
+	{
+		"Station ID" "10296"
+	}
+	"(*) A-1 Mix HDMobile (128K)"
+	{
+		"Station ID" "14672"
+	}
+	"MostlyMusic.com (96K)"
+	{
+		"Station ID" "2981"
+	}
+	"(*) 1000 Oldies (128K)"
+	{
+		"Station ID" "10520"
+	}
+	"WBGL (96K)"
+	{
+		"Station ID" "2215"
+	}
+	"Rhema Radio (48K)"
+	{
+		"Station ID" "2242"
+	}
+	"ROCK RADIO SI (128K)"
+	{
+		"Station ID" "13642"
+	}
+	"ZenFM (MP3) (128K)"
+	{
+		"Station ID" "1398"
+	}
+	"(*) 1 HITS 80s (128K)"
+	{
+		"Station ID" "1253"
+	}
+	"(*) SlowRadio.Com (128K)"
+	{
+		"Station ID" "851"
+	}
+	"Redio Safina FM 92.50 MHZ (32K)"
+	{
+		"Station ID" "2257"
+	}
+	"Polskie Radio 1030AM & 1300AM (128K)"
+	{
+		"Station ID" "2833"
+	}
+	"El Metro Salsero (128K)"
+	{
+		"Station ID" "14575"
+	}
+	"Eldoradio (128K)"
+	{
+		"Station ID" "4662"
+	}
+	"AlohaJoe (128K)"
+	{
+		"Station ID" "2970"
+	}
+	"Audiophile Jazz (320K)"
+	{
+		"Station ID" "13223"
+	}
+	"Radio Beograd 1 (128K)"
+	{
+		"Station ID" "4319"
+	}
+	"Republic Broadcasting (32K)"
+	{
+		"Station ID" "4867"
+	}
+	"(*) FeeverMix (128K)"
+	{
+		"Station ID" "1591"
+	}
+	"RadioMv.com | Russian Christian Music (128K)"
+	{
+		"Station ID" "2231"
+	}
+	"WebMaster Radio Network - (128K)"
+	{
+		"Station ID" "5575"
+	}
+	"Nirvana Meditation Radio -  The Best Meditation Music (128K)"
+	{
+		"Station ID" "1490"
+	}
+	"HITRADIO CENTER (128K)"
+	{
+		"Station ID" "13456"
+	}
+	"AlohaJoe (128K)"
+	{
+		"Station ID" "2969"
+	}
+	"(*) NeigeFolle2015 (128K)"
+	{
+		"Station ID" "5671"
+	}
+	"UZIC.CH :: TECHNO-MINIMAL (128K)"
+	{
+		"Station ID" "2004"
+	}
+	"Hungama-Romantic-Hits (56K)"
+	{
+		"Station ID" "853"
+	}
+	"Ambient Sleeping Pill (128K)"
+	{
+		"Station ID" "1495"
+	}
+	"Christmas Radio Malta (128K)"
+	{
+		"Station ID" "14915"
+	}
+	"(*) AOLMRadio (128K)"
+	{
+		"Station ID" "470"
+	}
+	"Cafedelmar FM (128K)"
+	{
+		"Station ID" "1718"
+	}
+	"ANTENNE BAYERN Chillout (128K)"
+	{
+		"Station ID" "1486"
+	}
+	"Hits FM 91.2 Live Streaming from Kathmandu (64K)"
+	{
+		"Station ID" "13379"
+	}
+	"ABC Christmas (128K)"
+	{
+		"Station ID" "11374"
+	}
+	"(*) Smooth Jazz 247 (128K)"
+	{
+		"Station ID" "10932"
+	}
+	"eNFX Radio Trinidad - Radio Beyond Good (96K)"
+	{
+		"Station ID" "3262"
+	}
+	"..:: BALKAN.DJ Radio ::.. (96K)"
+	{
+		"Station ID" "1623"
+	}
+	"JamRockOne | We Run Bout Ya! (64K)"
+	{
+		"Station ID" "5372"
+	}
+	"Antenne Niedersachsen (192K)"
+	{
+		"Station ID" "6207"
+	}
+	"(*) 1000 HITS Country (128K)"
+	{
+		"Station ID" "610"
+	}
+	"Royal Russian (128K)"
+	{
+		"Station ID" "10863"
+	}
+	"181.FM Christmas Country (128K)"
+	{
+		"Station ID" "11375"
+	}
+	"LA SUPER ESTRELLA SONIDERA (64K)"
+	{
+		"Station ID" "3742"
+	}
+	"GDRADIO.NET - Streaming Grateful Dead and More! (64K)"
+	{
+		"Station ID" "5466"
+	}
+	"TROPICALISIMA.FM SALSA (128K)"
+	{
+		"Station ID" "4026"
+	}
+	"(*) 1000 HITS Classical Music (128K)"
+	{
+		"Station ID" "718"
+	}
+	"One Dance (128K)"
+	{
+		"Station ID" "11769"
+	}
+	"Nationwide Viet Radio (NVR) (48K)"
+	{
+		"Station ID" "2602"
+	}
+	"(*) SamaRadio (128K)"
+	{
+		"Station ID" "3453"
+	}
+	"TaksimFM - Slow (64K)"
+	{
+		"Station ID" "7505"
+	}
+	"A Country Christmas Mix -- Todays Christmas blended with Traditional  Favorites (128K)"
+	{
+		"Station ID" "13673"
+	}
+	"Radio Piekary 88,7 MHz (128K)"
+	{
+		"Station ID" "3979"
+	}
+	"181.FM Christmas Smooth Jazz (128K)"
+	{
+		"Station ID" "10187"
+	}
+	"La 2 x 4 - FM TANGO - FM 92.7 - Gobierno de la Ciudad de Buenos Aires (64K)"
+	{
+		"Station ID" "4068"
+	}
+	"100 TopSchlager | www.100topschlager.de (160K)"
+	{
+		"Station ID" "2823"
+	}
+	"Big B Radio #KPOP - The Only Hot Station for Asian Music | bigbradio.net (64K)"
+	{
+		"Station ID" "4517"
+	}
+	"WRCJ 90.9 - Classical Days, Jazzy Nights (128K)"
+	{
+		"Station ID" "3545"
+	}
+	"(*) Alpenradio|Volksmusik (128K)"
+	{
+		"Station ID" "1444"
+	}
+	"British Comedy Gold - ROK Classic Radio (48K)"
+	{
+		"Station ID" "7620"
+	}
+	"(*) PurposeCity (128K)"
+	{
+		"Station ID" "2254"
+	}
+	"Okay 101.7FM (64K)"
+	{
+		"Station ID" "13504"
+	}
+	"Hungama-Bollywood-Hits (56K)"
+	{
+		"Station ID" "2651"
+	}
+	"(*) Ghana Waves Radio (128K)"
+	{
+		"Station ID" "2503"
+	}
+	"1.FM - Chillout Lounge Radio (128K)"
+	{
+		"Station ID" "1399"
+	}
+	"JamRockOne | We Run Bout Ya! (128K)"
+	{
+		"Station ID" "5374"
+	}
+	"CALM RADIO - BACH - Sampler (128K)"
+	{
+		"Station ID" "805"
+	}
+	"StreamingSoundtracks.com - Scores of Music from Movies, Game, TV & Anime w/Chat & Automated Requests (128K)"
+	{
+		"Station ID" "5819"
+	}
+	"Dakar Musique (128K)"
+	{
+		"Station ID" "2504"
+	}
+	"A.R.Rahman radio (128K)"
+	{
+		"Station ID" "3317"
+	}
+	"Soy Sonidero (128K)"
+	{
+		"Station ID" "4029"
+	}
+	"Deep House Network - Streaming Deep House & Soulful (192K)"
+	{
+		"Station ID" "14187"
+	}
+	"Radio HSL (64K)"
+	{
+		"Station ID" "3007"
+	}
+	"181.FM Christmas Smooth Jazz (128K)"
+	{
+		"Station ID" "10184"
+	}
+	"XL Radio Gurbani Kirtan 24/7- Canada (64K)"
+	{
+		"Station ID" "3055"
+	}
+	"181.FM Christmas Country (128K)"
+	{
+		"Station ID" "9048"
+	}
+	"Classic Rock Miami HD (192K)"
+	{
+		"Station ID" "5467"
+	}
+	"(*) GOSPELNOW365 (128K)"
+	{
+		"Station ID" "9601"
+	}
+	"(*) ALL SMOOTH JAZZ (128K)"
+	{
+		"Station ID" "3544"
+	}
+	"(*) hapyness-radio (128K)"
+	{
+		"Station ID" "11770"
+	}
+	"Crime & Suspense Channel - ROK Classic Radio (32K)"
+	{
+		"Station ID" "4878"
+	}
+	"TOPradio Belgium (MP3) (128K)"
+	{
+		"Station ID" "1583"
+	}
+	"(*) bleudream-80 (128K)"
+	{
+		"Station ID" "11193"
+	}
+	"Discofoxhimmel - Discofox Dance Fox und Pop Schlager (128K)"
+	{
+		"Station ID" "1586"
+	}
+	"181.FM The Eagle (Classic) (128K)"
+	{
+		"Station ID" "6210"
+	}
+	"XHBIO - FIESTA MEXICANA - Grupo Promomedios Radio. Guadalajara, Jalisco, Mexico. (56K)"
+	{
+		"Station ID" "3977"
+	}
+	"Big B Radio #KPOP - The Only Hot Station for Asian Music | bigbradio.net (128K)"
+	{
+		"Station ID" "4518"
+	}
+	"Polka Jammer Network (128K)"
+	{
+		"Station ID" "1448"
+	}
+	"PSYCHEDELIK.COM  Ambient Chill Psychedelic stream (192K)"
+	{
+		"Station ID" "1492"
+	}
+	"Deep Mix Moscow Radio: deepmix.ru (128K)"
+	{
+		"Station ID" "2005"
+	}
+	"Rotana Radio Jordan - Powered By Zain Jordan (48K)"
+	{
+		"Station ID" "2558"
+	}
+	"CROOZE.fm - a unique mix of Smooth & Acid Jazz, Funk, Soul, Latin, R&B, Lounge and Chill music. (128K)"
+	{
+		"Station ID" "3609"
+	}
+	"Radio Television Caraibes Port-au-Prince Haiti (56K)"
+	{
+		"Station ID" "11153"
+	}
+	"(*) OsChart Radio (128K)"
+	{
+		"Station ID" "6876"
+	}
+	"Radio NOE (160K)"
+	{
+		"Station ID" "2822"
+	}
+	"Dogglounge Deep House Radio (128K)"
+	{
+		"Station ID" "1926"
+	}
+	"(*) 1 HITS 70s (128K)"
+	{
+		"Station ID" "1204"
+	}
+	"Hirschmilch Chillout (128K)"
+	{
+		"Station ID" "1489"
+	}
+	"96.3 WRocK Cebu Philippines (64K)"
+	{
+		"Station ID" "5472"
+	}
+	"MKM CARAIBES (128K)"
+	{
+		"Station ID" "3452"
+	}
+	"Arman FM (128K)"
+	{
+		"Station ID" "914"
+	}
+	"Ambient Sleeping Pill (256K)"
+	{
+		"Station ID" "6868"
+	}
+	"Adagio.FM - Timeless Classical Music from Medieval to Modern with Chat & Automated Requests (128K)"
+	{
+		"Station ID" "854"
+	}
+	"All 60s All the Time - KeepFreeMusic.com (128K)"
+	{
+		"Station ID" "1158"
+	}
+	".113FM Awesome 80s (128K)"
+	{
+		"Station ID" "14052"
+	}
+	"ORF RADIO Kaernten (160K)"
+	{
+		"Station ID" "2835"
+	}
+	"181.FM Christmas Smooth Jazz (128K)"
+	{
+		"Station ID" "13675"
+	}
+	"(*) Hitradio Antwerp FM (128K)"
+	{
+		"Station ID" "4773"
+	}
+	".113FM The Eagle (128K)"
+	{
+		"Station ID" "11318"
+	}
+	"181.FM The Heart (Love Songs) (128K)"
+	{
+		"Station ID" "6214"
+	}
+	"Radio Volna Schastiya 128 kbps (128K)"
+	{
+		"Station ID" "2220"
+	}
+	"Antenne Niedersachsen X-Mas (192K)"
+	{
+		"Station ID" "11460"
+	}
+	"Tambourine Radio Live (64K)"
+	{
+		"Station ID" "5353"
+	}
+	"(*) Wine Farm And Tourist radio (128K)"
+	{
+		"Station ID" "10460"
+	}
+	"181.FM Christmas Standards (128K)"
+	{
+		"Station ID" "12527"
+	}
+	"RADIO BERCIK - SILESIA (128K)"
+	{
+		"Station ID" "14331"
+	}
+	"(*) AMERICANTOP40 (128K)"
+	{
+		"Station ID" "14107"
+	}
+	"181.FM Christmas RnB (128K)"
+	{
+		"Station ID" "14916"
+	}
+	"1.FM - ADORE JAZZ RADIO (128K)"
+	{
+		"Station ID" "3661"
+	}
+	"Puradsi Isaiyaruvi - Crystal Clear Hit Music Station (128K)"
+	{
+		"Station ID" "8577"
+	}
+	"Podtrash (128K)"
+	{
+		"Station ID" "10209"
+	}
+	"positivityradio.world - Powered by Shoutcheap.com (32K)"
+	{
+		"Station ID" "6193"
+	}
+	"(*) !SUPER DANCE! (128K)"
+	{
+		"Station ID" "1613"
+	}
+	"Horror Theatre - Where Something Terrible Always Happens! (24K)"
+	{
+		"Station ID" "6014"
+	}
+	"(*) Maroc chaabi (128K)"
+	{
+		"Station ID" "1494"
+	}
+	"1.FM - Bossa Nova Hits Radio (256K)"
+	{
+		"Station ID" "3718"
+	}
+	"Deepvibes Radio (320K)"
+	{
+		"Station ID" "1936"
+	}
+	"Chilltrax - The Worlds Chillout Channel (128K)"
+	{
+		"Station ID" "6307"
+	}
+	"telemicro.com.do (96K)"
+	{
+		"Station ID" "14606"
+	}
+	"InfoRadio (128K)"
+	{
+		"Station ID" "4775"
+	}
+	"(*) F2x Radio (128K)"
+	{
+		"Station ID" "10587"
+	}
+	"Aardvark Blues FM (128K)"
+	{
+		"Station ID" "609"
+	}
+	"(*) Radio Nostalgia (128K)"
+	{
+		"Station ID" "1156"
+	}
+	"POWERHITZ.COM - THE HITLIST - #1 FOR ALL HIT MUSIC (128K)"
+	{
+		"Station ID" "13459"
+	}
+	"Radio Sumadinac - DJ Milance (128K)"
+	{
+		"Station ID" "2830"
+	}
+	"Radio GANGSTA Manele Romania - www.RadioGangsta.ro (128K)"
+	{
+		"Station ID" "2849"
+	}
+	"1.FM - Americas Best Ballads Radio (256K)"
+	{
+		"Station ID" "6452"
+	}
+	"Padamyar FM (56K)"
+	{
+		"Station ID" "7606"
+	}
+	"(*) Pineal tunes (128K)"
+	{
+		"Station ID" "14104"
+	}
+	"Quran Radio Tafsir (64K)"
+	{
+		"Station ID" "3116"
+	}
+	"Radio Television Caraibes Port-au-Prince Haiti (56K)"
+	{
+		"Station ID" "4760"
+	}
+	"psyradio * fm - progressive (128K)"
+	{
+		"Station ID" "2040"
+	}
+	"Radio109 - Die schoensten Schlager | www.radio109.de (128K)"
+	{
+		"Station ID" "2829"
+	}
+	"ZaM Radio Stanice ZaMRadio Radio Stanice, Narodna Zabavna Muzika, Bosna Srbija Hrvatska Balkan, radi (96K)"
+	{
+		"Station ID" "13117"
+	}
+	"#DNBRADIO - Main Channel - Fresh Drum n Bass, Jungle (192K)"
+	{
+		"Station ID" "1600"
+	}
+	"(*) bachata dominicana (128K)"
+	{
+		"Station ID" "3955"
+	}
+	"Deep Mix Moscow Radio: deepmix.ru (128K)"
+	{
+		"Station ID" "2007"
+	}
+	"Soundstorm-radio.com Relax Radio - Electronic Pop Indie World (128K)"
+	{
+		"Station ID" "302"
+	}
+	"181.FM Christmas Oldies (128K)"
+	{
+		"Station ID" "14917"
+	}
+	"White Noise Radio (64K)"
+	{
+		"Station ID" "6316"
+	}
+	"181.FM Christmas Smooth Jazz (128K)"
+	{
+		"Station ID" "7943"
+	}
+	"Megahitradio - Die volle Ladung Hits (160K)"
+	{
+		"Station ID" "4668"
+	}
+	".113FM Star (128K)"
+	{
+		"Station ID" "1296"
+	}
+	"CALM RADIO - SMOOTH JAZZ - Sampler (128K)"
+	{
+		"Station ID" "3612"
+	}
+	"Hity z Polskiej Plyty (128K)"
+	{
+		"Station ID" "13115"
+	}
+	"Flower Power Radio - Far Out And Groovy Tunes From The 50s 60s & 70s (128K)"
+	{
+		"Station ID" "14659"
+	}
+	"A Celtic Christmas (128K)"
+	{
+		"Station ID" "9046"
+	}
+	"Bygolly Old Time Radio (32K)"
+	{
+		"Station ID" "6012"
+	}
+	"OkeyBizFM (64K)"
+	{
+		"Station ID" "9932"
+	}
+	"Radio Pendimi Studio 1 Prishtine (96K)"
+	{
+		"Station ID" "4324"
+	}
+	"(*) Crystal Radio Beautiful Music (128K)"
+	{
+		"Station ID" "4584"
+	}
+	"Radio Horizon 2000 95.7 FM Haiti (128K)"
+	{
+		"Station ID" "11058"
+	}
+	"(*) 4U Smooth Jazz (128K)"
+	{
+		"Station ID" "1404"
+	}
+	"Kpopway (128K)"
+	{
+		"Station ID" "4546"
+	}
+	"MRBI - KMRB AM1430 (50K)"
+	{
+		"Station ID" "4311"
+	}
+	"181.FM Classic Hits 181 (128K)"
+	{
+		"Station ID" "4585"
+	}
+	"StarMusiQ.Com (64K)"
+	{
+		"Station ID" "3318"
+	}
+	"RADIO AL FAYDA FM 90.1 (56K)"
+	{
+		"Station ID" "14607"
+	}
+	"citifm.primcast.com (64K)"
+	{
+		"Station ID" "9111"
+	}
+	"SmoothLounge.com Global Radio - Chilled Organic Beats from California to the World - KSJZ.DB (128K)"
+	{
+		"Station ID" "6305"
+	}
+	"Radio Eskpres SI (128K)"
+	{
+		"Station ID" "14053"
+	}
+	"Boing (96K)"
+	{
+		"Station ID" "4660"
+	}
+	"181.FM Christmas Standards (128K)"
+	{
+		"Station ID" "14918"
+	}
+	"(*) 1 Radio Lounge (128K)"
+	{
+		"Station ID" "1409"
+	}
+	"(*) Common Good Radio (128K)"
+	{
+		"Station ID" "7045"
+	}
+	"(*) Yimago Radio 2 (128K)"
+	{
+		"Station ID" "2974"
+	}
+	"Power 106 (48K)"
+	{
+		"Station ID" "4767"
+	}
+	"RADIO REMANENTE TRANSMITIENDO DESDE MARYLAND PARA EL MUNDO ENTERO CON UNCION Y PODER DE LO ALTO ESTA (64K)"
+	{
+		"Station ID" "4580"
+	}
+	"Al Islah Islamic Center (50K)"
+	{
+		"Station ID" "14376"
+	}
+	"Electro Swing Revolution Radio - The 1st Electro Swing Radio worldwide! (128K)"
+	{
+		"Station ID" "3636"
+	}
+	"Gospel 108 (128K)"
+	{
+		"Station ID" "2349"
+	}
+	".113FM Retro (128K)"
+	{
+		"Station ID" "14660"
+	}
+	"garuda.shoutcaststream.com (96K)"
+	{
+		"Station ID" "7500"
+	}
+	"(*) emr2015 (128K)"
+	{
+		"Station ID" "1616"
+	}
+	"ManasuTho - telugu (128K)"
+	{
+		"Station ID" "7504"
+	}
+	"CALM RADIO - BAROQUE - Sampler (128K)"
+	{
+		"Station ID" "722"
+	}
+	"181.FM Awesome 80s (128K)"
+	{
+		"Station ID" "1258"
+	}
+	"HARDCORERADIO.NL - Hardcore radio - 24/7 Mainstream Hardcore & Gabber (192K)"
+	{
+		"Station ID" "253"
+	}
+	"(*) GupShupCoRneRadio (128K)"
+	{
+		"Station ID" "13072"
+	}
+	"(*) 101 SMOOTH JAZZ MELLOW MIX (128K)"
+	{
+		"Station ID" "1720"
+	}
+	"Hirschmilch Progressive (128K)"
+	{
+		"Station ID" "1984"
+	}
+	"MRBI - KAZN AM1300 (50K)"
+	{
+		"Station ID" "4318"
+	}
+	"(*) Classic Composers Radio (128K)"
+	{
+		"Station ID" "736"
+	}
+	"Dhol Radio (32K)"
+	{
+		"Station ID" "9698"
+	}
+	"1.FM - Chillout Lounge Radio (128K)"
+	{
+		"Station ID" "14081"
+	}
+	"AgF-Radio e.V. (128K)"
+	{
+		"Station ID" "14608"
+	}
+	"Italian Graffiati - Musica anni 60 e 70 (128K)"
+	{
+		"Station ID" "1160"
+	}
+	"SPB radio - Southradios.com (128K)"
+	{
+		"Station ID" "3321"
+	}
+	"electroradio.fm (192K)"
+	{
+		"Station ID" "1846"
+	}
+	"MagicRadio by PulsRadio (192K)"
+	{
+		"Station ID" "1207"
+	}
+	"Big B Radio - KPOP | The Hot Station for Asian Music (192K)"
+	{
+		"Station ID" "4547"
+	}
+	"(*) Instrumentals Forever (128K)"
+	{
+		"Station ID" "3635"
+	}
+	"Non Stop Hindi (64K)"
+	{
+		"Station ID" "10827"
+	}
+	"(*) American Sixties Radio (128K)"
+	{
+		"Station ID" "13439"
+	}
+	"(*) 1 HITS 60s (128K)"
+	{
+		"Station ID" "1161"
+	}
+	"RadyoGabile (48K)"
+	{
+		"Station ID" "14609"
+	}
+	"(*) BUDDHA BAR (128K)"
+	{
+		"Station ID" "1403"
+	}
+	"((( WEFUNK Radio ))) . raw uncut funk . classic & underground hip-hop (64K)"
+	{
+		"Station ID" "5323"
+	}
+	"Radio 101 Zagreb (128K)"
+	{
+		"Station ID" "4316"
+	}
+	"(*) WKXY (128K)"
+	{
+		"Station ID" "4615"
+	}
+	"(*) Lite Rock by Yimago.com (128K)"
+	{
+		"Station ID" "11125"
+	}
+	"Urban Hitz Radio (128K)"
+	{
+		"Station ID" "5213"
+	}
+	"onelive (64K)"
+	{
+		"Station ID" "12666"
+	}
+	"Slonskyradio, Slaskieradio - Gro Wom Chris (64K)"
+	{
+		"Station ID" "12222"
+	}
+	"(*) New Age by Yimago.com (128K)"
+	{
+		"Station ID" "2769"
+	}
+	"1Mix Radio - only the best Trance Music.. (320K)"
+	{
+		"Station ID" "2041"
+	}
+	"Roswell UFO Radio (128K)"
+	{
+		"Station ID" "4880"
+	}
+	"(*) Bossa Nova Breakfast (128K)"
+	{
+		"Station ID" "3613"
+	}
+	"mp3quran main radio (64K)"
+	{
+		"Station ID" "3105"
+	}
+	"1Mix Radio - Live shows and DJ sets from around the world - its all about EDM music.. (320K)"
+	{
+		"Station ID" "1937"
+	}
+	"BEATWINUS Bar - Soulsideradio.fr (128K)"
+	{
+		"Station ID" "1938"
+	}
+	"(*) FunAdoSong (128K)"
+	{
+		"Station ID" "684"
+	}
+	"http://saycast.inlive.co.kr (128K)"
+	{
+		"Station ID" "9931"
+	}
+	"Puro, Total y Absoluto: Rock and Roll (64K)"
+	{
+		"Station ID" "2831"
+	}
+	"Radio City Hindi Classics (64K)"
+	{
+		"Station ID" "13089"
+	}
+	"RADIO JOVEM POP FM (128K)"
+	{
+		"Station ID" "4665"
+	}
+	"Radio Esperans (128K)"
+	{
+		"Station ID" "1625"
+	}
+	"Islam2Day Radio Station! [CH.1] .::|Quran Recitation|::. [www.islam2day.tv] (48K)"
+	{
+		"Station ID" "3208"
+	}
+	"Hits Of Bollywood (32K)"
+	{
+		"Station ID" "3009"
+	}
+	"Yabiladi Radio - 100% Maroc (128K)"
+	{
+		"Station ID" "2559"
+	}
+	"La Nueva Radio YA (96K)"
+	{
+		"Station ID" "4866"
+	}
+	"Hungama-Devotional (48K)"
+	{
+		"Station ID" "14610"
+	}
+	"CALM RADIO - VIVALDI - Sampler (128K)"
+	{
+		"Station ID" "804"
+	}
+	"Royal Radio (128K)"
+	{
+		"Station ID" "12597"
+	}
+	"HIPER FM // PORTUGAL (192K)"
+	{
+		"Station ID" "4681"
+	}
+	"(*) Gold Star Radio (128K)"
+	{
+		"Station ID" "13438"
+	}
+	"RTL Radio Letzebuerg (128K)"
+	{
+		"Station ID" "4765"
+	}
+	"FRISKY CHILL | feelin frisky? (128K)"
+	{
+		"Station ID" "1496"
+	}
+	"Fimi Radio (64K)"
+	{
+		"Station ID" "11254"
+	}
+	"CHILLOUT LOUNGE RADIO (1.FM TM) (128K)"
+	{
+		"Station ID" "1402"
+	}
+	"La Mejor 107.9 FM Fresnillo Zacatecas. (24K)"
+	{
+		"Station ID" "13286"
+	}
+	"(*) 2 Love Radio (128K)"
+	{
+		"Station ID" "4583"
+	}
+	"CMR Tamil HD - MQ (128K)"
+	{
+		"Station ID" "3319"
+	}
+	"Partyradio24 - Party Schlager und Discofox (128K)"
+	{
+		"Station ID" "14332"
+	}
+	"The Original 1940s Radio Station (128K)"
+	{
+		"Station ID" "3638"
+	}
+	"HEBREW ISRAELITE RADIO NETWORK (192K)"
+	{
+		"Station ID" "2394"
+	}
+	"HookedOnRadio - Cool Christmas (128K)"
+	{
+		"Station ID" "6272"
+	}
+	"NERadio House & Trance | The Best of House and Trance - www.neradio.fm | (192K)"
+	{
+		"Station ID" "1939"
+	}
+	"WCIC (96K)"
+	{
+		"Station ID" "2225"
+	}
+	"KCEA 89.1 (64K)"
+	{
+		"Station ID" "3523"
+	}
+	"Polski.FM - Chicago - LIVE (NEW) (96K)"
+	{
+		"Station ID" "11972"
+	}
+	"Radio 80 (128K)"
+	{
+		"Station ID" "1254"
+	}
+	"ETR.Music [Non Stop Tamil Music Hits] (128K)"
+	{
+		"Station ID" "10887"
+	}
+	"TamilFlash.Fm Online Tamil Radio (96K)"
+	{
+		"Station ID" "3315"
+	}
+	"Guadalupe Radio (64K)"
+	{
+		"Station ID" "4854"
+	}
+	"Radio Dzair Echaabia (128K)"
+	{
+		"Station ID" "2565"
+	}
+	"kark nagmeler (32K)"
+	{
+		"Station ID" "14110"
+	}
+	"Bia2 Radio (128K)"
+	{
+		"Station ID" "8767"
+	}
+	"181.FM The Eagle (Classic) (128K)"
+	{
+		"Station ID" "6213"
+	}
+	"(*) humorzender (128K)"
+	{
+		"Station ID" "13383"
+	}
+	"181.FM UK top 40 (128K)"
+	{
+		"Station ID" "4684"
+	}
+	"Radio NebunYa Manele wWw.RaDioNeBunYa.Ro Radio Manele (128K)"
+	{
+		"Station ID" "1116"
+	}
+	"M4URadio.com - Mix Music For The Mix Nation (128K)"
+	{
+		"Station ID" "2657"
+	}
+	"Z88.3 (128K)"
+	{
+		"Station ID" "9583"
+	}
+	"The Ultimate Art Bell (32K)"
+	{
+		"Station ID" "14725"
+	}
+	"FRESH FM IBADAN (128K)"
+	{
+		"Station ID" "14726"
+	}
+	"(*) Hippie Soul Radio (128K)"
+	{
+		"Station ID" "1209"
+	}
+	"NERadio Sweden - Best of Techno & Trance | www.neradio.se (192K)"
+	{
+		"Station ID" "2009"
+	}
+	"WDVX (96K)"
+	{
+		"Station ID" "11061"
+	}
+	"1.FM - Slow Jamz Radio (128K)"
+	{
+		"Station ID" "5222"
+	}
+	"Smooth Jazz Florida Plus (128K)"
+	{
+		"Station ID" "8637"
+	}
+	"(*) The Blues Cove (128K)"
+	{
+		"Station ID" "546"
+	}
+	"ReggaetonColombia.Net FM (96K)"
+	{
+		"Station ID" "3956"
+	}
+	"Paradise radio 101,6 (128K)"
+	{
+		"Station ID" "14200"
+	}
+	".113FM Hitz 2016 (128K)"
+	{
+		"Station ID" "11132"
+	}
+	"Hanks Gumshoe OTR (32K)"
+	{
+		"Station ID" "6013"
+	}
+	"Breakz.FM - The Best HipHop EDM Mashup & Club Music in 1 Webradio (128K)"
+	{
+		"Station ID" "1931"
+	}
+	"HardRadio.com (128K)"
+	{
+		"Station ID" "4249"
+	}
+	"RVE Sibiu (80K)"
+	{
+		"Station ID" "2258"
+	}
+	"FM104 Web Stream (128K)"
+	{
+		"Station ID" "4312"
+	}
+	"Drone Manipulation Radio (128K)"
+	{
+		"Station ID" "1530"
+	}
+	"(*) web-radioclubvilvoorde (128K)"
+	{
+		"Station ID" "1678"
+	}
+	"The True Oldies Channel (128K)"
+	{
+		"Station ID" "4582"
+	}
+	"RADIOGURBETI JU BEN PER VETI (64K)"
+	{
+		"Station ID" "2855"
+	}
+	"Radio Melodie - Volksmusik mit Herz (128K)"
+	{
+		"Station ID" "2884"
+	}
+	"TROPICALISIMA.FM BALADAS 2 (128K)"
+	{
+		"Station ID" "852"
+	}
+	"Radio Dzair Raina (128K)"
+	{
+		"Station ID" "3190"
+	}
+	"SOUL GOLD RADIO OLD LOVE SONGS (128K)"
+	{
+		"Station ID" "5033"
+	}
+	"Sleepscapes | Rain (96K)"
+	{
+		"Station ID" "6315"
+	}
+	"181.FM Good Time Oldies (128K)"
+	{
+		"Station ID" "4599"
+	}
+	"Radio FUNKY Manele Romania wWw.RadioFunky.Ro (128K)"
+	{
+		"Station ID" "13119"
+	}
+	"loveclassics (64K)"
+	{
+		"Station ID" "12667"
+	}
+	"AM 600 Conyers GA OTR - Old Time Radio and Music of the 30s, 40s and 50s (24K)"
+	{
+		"Station ID" "6016"
+	}
+	"Radio TWM (128K)"
+	{
+		"Station ID" "14235"
+	}
+	"ISAAC 98.1FM The Promise (128K)"
+	{
+		"Station ID" "2228"
+	}
+	"The 1920s Radio Network, 20s, 30, 40s, Old Time Radio, Chesapeake Virginia, 64kbps mono (64K)"
+	{
+		"Station ID" "3522"
+	}
+	"57 Chevy Radio 16 (128K)"
+	{
+		"Station ID" "4587"
+	}
+	"181.FM Super 70s (128K)"
+	{
+		"Station ID" "4590"
+	}
+	"99,4 SunshineFM (160K)"
+	{
+		"Station ID" "14105"
+	}
+	"CALM RADIO - JAZZ PIANO - Sampler (128K)"
+	{
+		"Station ID" "3616"
+	}
+	"Chroma Piano (128K)"
+	{
+		"Station ID" "836"
+	}
+	"Ambient Art Sound (128K)"
+	{
+		"Station ID" "6311"
+	}
+	"Bollywood - Sada Bahar Music Radio (64K)"
+	{
+		"Station ID" "3010"
+	}
+	"1.FM - A List 80s (128K)"
+	{
+		"Station ID" "11725"
+	}
+	"(*) ABC Piano (128K)"
+	{
+		"Station ID" "719"
+	}
+	"1.FM - Magic 80 Radio (128K)"
+	{
+		"Station ID" "1266"
+	}
+	"DIGITAL VINYL radio (96K)"
+	{
+		"Station ID" "14106"
+	}
+	"Radio City Hindi (96K)"
+	{
+		"Station ID" "14370"
+	}
+	"J-Pop Powerplay (128K)"
+	{
+		"Station ID" "4523"
+	}
+	"Science Fiction & Supernatural Channel - ROK Classic Radio (32K)"
+	{
+		"Station ID" "7623"
+	}
+	"www.sivankovil.ch Bakthi Malargal (32K)"
+	{
+		"Station ID" "3328"
+	}
+	"Bum Bum radio (48K)"
+	{
+		"Station ID" "11062"
+	}
+	"Beat FM (128K)"
+	{
+		"Station ID" "5212"
+	}
+	"SocaFM - London - MERRY CHRISTMAS. (128K)"
+	{
+		"Station ID" "2725"
+	}
+	"1.FM - Ottos Baroque Music Radio (128K)"
+	{
+		"Station ID" "724"
+	}
+	"Kool London (128K)"
+	{
+		"Station ID" "1754"
+	}
+	"ChristianRock.Net (128K)"
+	{
+		"Station ID" "2281"
+	}
+}
